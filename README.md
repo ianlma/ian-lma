@@ -21,5 +21,5 @@ Estou iniciando minha jornada na tecnologia com uma base sólida em **Lógica de
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 📫 Como me encontrar
-- [LinkedIn](PERFIL EM ATUALIZAÇÃO)
+- [LinkedIn](ttps://www.linkedin.com/in/ian-lima-de-almeida-53bbbb348/)
 - [E-mail](ianlimadealmeida3@gmail.com)
